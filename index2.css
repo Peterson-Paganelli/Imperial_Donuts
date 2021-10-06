@@ -169,21 +169,13 @@ nav ul li a:hover{
 }
 
 #donut-one{background-image: url(./Imagens/donut-one.jpg);}
-
 #donut-two{background-image: url(./Imagens/donut-two.jpg);}
-
-#donut-three{background-image: url(./Imagens/donut-three.jpg); }
-
+#donut-three{background-image: url(./Imagens/donut-three.jpg);}
 #donut-four{background-image: url(./Imagens/donut-four.jpg);}
-
 #donut-five{background-image: url(./Imagens/donut-five.jpg);}
-
 #donut-six{background-image: url(./Imagens/donut-six.jpg);}
-
 #donut-seven{background-image: url(./Imagens/donut-seven.jpeg);}
-
 #donut-eight{background-image: url(./Imagens/donut-eight.jpeg);}
-
 #donut-nine{background-image: url(./Imagens/donut-nine.jpeg);}
 
 @media only screen and (max-width: 650px){
@@ -297,4 +289,3 @@ nav ul li a:hover{
     }
 
 }
-
